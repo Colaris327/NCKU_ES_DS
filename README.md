@@ -6,3 +6,7 @@
 
 
 格式: chap_HWname
+
+chap2 array
+
+chap3 stack and queue

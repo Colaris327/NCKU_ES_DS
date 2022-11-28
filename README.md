@@ -10,3 +10,9 @@
 chap2 array
 
 chap3 stack and queue
+
+chap4 linked list
+
+chap5 tree
+
+chap6 graph
